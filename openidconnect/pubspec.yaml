@@ -1,7 +1,8 @@
 name: openidconnect
-description: OpenIdConnect library for flutter.
+description: OpenIdConnect library for flutter TWD fork from https://github.com/Concerti-IO/openidconnect_flutter.
 version: 1.0.25
-homepage: https://github.com/Concerti-IO/openidconnect_flutter
+homepage: https://github.com/tahiti-web-design/openidconnect_flutter/tree/feat/keycloak-logout-support/openidconnect
+publish_to: https://unpub.intra-twd.com
 
 environment:
   sdk: ">=2.18.0 <3.0.0"
